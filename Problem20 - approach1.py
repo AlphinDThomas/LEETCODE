@@ -4,6 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
+        
         stack =[]
         opening = ["(","[","{"]
         for char in s:
