@@ -4,6 +4,10 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+#https://youtu.be/afTpieEZXck?si=v4FyVM3VXnHoxJHI
+#Watch in case of doubts
+
 class Solution(object):
     def preorderTraversal(self, root):
         """
