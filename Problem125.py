@@ -10,4 +10,3 @@ class Solution(object):
             if i.isalnum():
                 substring +=i
         return substring == substring[::-1]
-        
